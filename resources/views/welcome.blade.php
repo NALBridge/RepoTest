@@ -80,7 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel is my favorite framework!
-                    This is awesome!
+                    This is awesome!gsgs
                 </div>
 
                 <div class="links">
