@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel is my favorite!
                 </div>
 
                 <div class="links">
