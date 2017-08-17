@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Laravel is my favorite framework!
                     This is awesome!gsgs
-                    fadfdafdsssefsgrfafaeefafaefddsdsfdsfsdd
+                    fadfdafdsssefsgrfafaeefafaefddsdsfd
                 </div>
 
                 <div class="links">
